@@ -2,15 +2,10 @@ using UnityEngine;
 
 public class OnClickBtn : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public string linkURL = "https://www.google.com";
 
-    // Update is called once per frame
-    void Update()
+    public void OpenLink()
     {
-        
+        Application.OpenURL(linkURL);
     }
 }
