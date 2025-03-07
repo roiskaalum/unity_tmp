@@ -23,7 +23,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 7301593461279315109
       m_GuidHigh: 1271981447913585930
-    m_Size: {x: 0.3, y: 0.37}
+    m_Size: {x: 0.165, y: 0.2035}
     m_SpecifySize: 1
     m_Name: giraffacade
     m_Texture: {fileID: 2800000, guid: 49de54a5789165540abdc63b63fca611, type: 3}
